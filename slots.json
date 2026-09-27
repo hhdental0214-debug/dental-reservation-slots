@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:33:46.280898+09:00",
+  "generated_at": "2026-09-27T20:23:51.013314+09:00",
   "period": {
     "from": "2026-09-27",
     "to": "2026-10-11"
@@ -9,7 +9,7 @@
       "name": "名古屋みなみ歯科・矯正歯科",
       "system": "stransa",
       "reservation_url": "https://reservation.stransa.co.jp/70f538a9b6b451966575ca5558321581/reserve/select-frame?web-menu-id=47367",
-      "updated_at": "2026-09-27T14:33:53.788448+09:00",
+      "updated_at": "2026-09-27T20:23:59.882134+09:00",
       "status": "ok",
       "slots": {
         "2026-09-27": [],
@@ -158,7 +158,7 @@
       "name": "エスカ歯科・矯正歯科",
       "system": "stransa",
       "reservation_url": "https://reservation.stransa.co.jp/ba3a0e991e36324d13bbc5829d110d05/reserve/select-frame?web-menu-id=5908",
-      "updated_at": "2026-09-27T14:34:00.189874+09:00",
+      "updated_at": "2026-09-27T20:24:07.573586+09:00",
       "status": "ok",
       "slots": {
         "2026-09-27": [],
@@ -357,14 +357,10 @@
       "name": "いとデンタルクリニック",
       "system": "genie",
       "reservation_url": "https://reserve.dental/web/e97ee2-844/register/calendar?p1=new7",
-      "updated_at": "2026-09-27T14:34:07.984540+09:00",
+      "updated_at": "2026-09-27T20:24:16.503142+09:00",
       "status": "ok",
       "slots": {
-        "2026-09-28": [
-          "12:00",
-          "12:30",
-          "13:30"
-        ],
+        "2026-09-28": [],
         "2026-09-29": [
           "13:30"
         ],
